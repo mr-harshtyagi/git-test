@@ -13,4 +13,6 @@ Change 6 (on feat/change6 branch)
 
 Change 7 (on main branch)
 
+Change 8 (on dev branch)
+
 Test changes for branch protection
